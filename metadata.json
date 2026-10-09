@@ -1,0 +1,6 @@
+{
+  "name": "ABB KYC Supplier Collaboration",
+  "description": "Industrial supplier verification, purchase order tracking, factory floor milestone signoffs, and compliance evidence portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
